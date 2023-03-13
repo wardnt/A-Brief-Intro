@@ -78,6 +78,7 @@ body {
     font-size: 22px;
     margin: 2% 15%;
     text-align: left;
+    
   }
   .bodies2 {
     font-size: 22px;
@@ -89,6 +90,7 @@ body {
     font-size: 28px;
     margin: 2% 15%;
     text-align: center;
+    word-wrap: break-word;
   }
 /* Language Button Language Button Language Button Language Button */
   .block {
