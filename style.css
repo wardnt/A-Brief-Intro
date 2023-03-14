@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: Arial;
+    background-color: #E7F6F2;
   }
 /* Topnav Topnav Topnav Topnav */
 .topnav {
@@ -39,7 +40,7 @@ body {
     padding: 20px;
     color: #ffffff;
     margin: 0;
-    font-size: 5vw;
+    font-size: 70px;
   }
 
   .subTitle {
@@ -76,7 +77,7 @@ body {
 /* Bodies Bodies Bodies Bodies */
   .bodies1 {
     font-size: 22px;
-    margin: 2% 15%;
+    margin: 1% 15%;
     text-align: left;
     
   }
@@ -88,7 +89,7 @@ body {
   }
   .bodies3 {
     font-size: 28px;
-    margin: 2% 15%;
+    margin: 1% 15%;
     text-align: center;
     word-wrap: break-word;
   }
@@ -146,7 +147,7 @@ body {
     background-color: #2C3333;
     color: white;
     cursor: pointer;
-    padding: 18px;
+    padding: 14px 14px;
     width: 100%;
     text-align: left;
     border: none;
@@ -169,8 +170,8 @@ body {
 
 
   .panel {
-    padding: 0px 18px;
-    background-color: #d9d9d9;
+    padding: 10px 10px;
+    background-color: #ced2d1;
     display: none;
     overflow: hidden;
     font-size: 22px;
@@ -296,17 +297,9 @@ body {
 /* Language Button Language Button Language Button Language Button */
     .block {
       padding: 8px 20px;
-      font-size: 18px;
+      font-size: 22px;
       margin: 5% 25% 5% 25%;
     }
-
-/* Accordion Accordion Accordion Accordion*/
-  .accordion {
-    padding: 15px;
-  }
-  .panel {
-    padding: 0px 15px;
-  }
 /* Programming Example Programming Example Programming Example Programming Example */
   .center {
     width: 94%;
